@@ -41,7 +41,7 @@ ol {
   display: grid;
   grid-template-columns: 711px 30px 406px;
   grid-template-rows: 75px 455px;
-  padding: 137px 30px 133px;
+  padding: 275px 30px 133px;
 }
 
 .result {
